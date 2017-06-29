@@ -1,2 +1,3 @@
 # VagrantLab1
-Get Vagrant file and see what happened :)
+Get these files and see what happened :)
+(tip: use "vagrant up")
